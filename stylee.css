@@ -1,0 +1,47 @@
+body{background-color:#ffe459
+}
+
+h1{
+	color: #595395;
+	font-size: xxx-large;
+}
+
+p{
+	color: #595395;
+	font-size: 20px;
+}
+
+img{
+	border: 10px solid white;
+}
+
+h2{
+	color: #595395;
+	font-size: 25px;
+}
+
+li{
+	color: #595395;
+	font-size: 20px;
+}
+
+
+nav {
+    background-color: white;
+    padding: 20px;
+    height: 70px;
+          border-radius: 40px;
+} 
+.nav-item{
+    color: #595395;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    padding: 50px;
+    position: relative;
+    top:30px;
+}
+img{
+	float: right;
+}
+
+
