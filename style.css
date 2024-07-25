@@ -48,3 +48,9 @@ nav {
 img{
 	float: right;
 }
+.qr{
+	float: left;
+	border:0;
+	width:200px;
+	margin:100px;
+}
